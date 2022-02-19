@@ -6365,7 +6365,7 @@ Non-Conforming,عدم المطابقة
 Prefer not to say,افضل عدم القول
 Is Billing Contact,هو جهة اتصال الفوترة
 Address And Contacts,العنوان وجهات الاتصال
-Lead Conversion Time,وقت تحويل الزبون المحتمل
+Lead Conversion Time,وقت تحويل العميل المحتمل
 Due Date Based On,تاريخ الاستحقاق بناء على
 Phone Number,رقم الهاتف
 Linked Documents,المستندات المرتبطة
@@ -7305,3 +7305,72 @@ paid_from,مدفوع_من
 pe,بي
 return_amount,قيمة المرتجع
 POS Coupons,قسيمة نقاط البيع
+Cheque,شيك
+Cheque No,رقم الشيك
+Cheque Status,حالة الشيك
+Endorsed Party Type,نوع العميل المظهر له
+Endorsed Party Name,إسم العميل المظهر له
+Endorsed Party Account,حساب العميل المظهر له
+Deposit Under Collection,إيداع تحت التحصيل
+Instant Collection,تحصيل فوري للشيك
+Endorse Cheque,تظهير الشيك
+Cheque Collection,تحصيل الشيك
+New,جديد
+Under Collection,تحت التحصيل
+Collected,محصل
+Bounced Cheque,شيك مرتد
+Endorsed,مظهر
+Returned To Customer,مرتد للعميل
+Drawn Bank,البنك المسحوب عليه
+Cheque Collection Fee,عمولة تحصيل الشيك
+Cheque Rejection Fee,عمولة رفض الشيك
+First Beneficiary,المستفيد الأول
+Beneficiary Name,إسم المستفيد
+Endorsement Cheque,شيك مظهر
+Withdrawing Bank,البنك الساحب
+Withdrawing Bank Account,حساب البنك الساحب
+Endoser Prty Name ,إسم العميل المظهر له
+Endoser Prty Account,حساب العميل المظهر له
+Re Deposit Under Collection,إعادة تحت التحصيل
+Cheque Data,بيانات الشيك
+Address Line 1,العنوان باللغة الأنجليزية
+Address Line 2,العنوان باللغة العربية
+Customer Name in Arabic,الأسم الكامل باللغة العربية
+Customer PO Details,بيانات أمر شراء العميل
+Customer's Purchase Order,رقم أمر شراء العميل
+Show,إظهار
+Letter Head,شعار الشركة
+User,المستخدم
+Customers,العملاء
+Reports & Masters,البيانات والتقارير
+Items and Pricing,الأصناف والأسعار
+ITEM,الصنف
+Item,الصنف
+Modules,برنامج
+Is Return (Credit Note),مرتجع مبيعات ( إشعار دائن)
+Is Debit Note,إشعار مدين
+Customer's Purchase Order,رقم أمر شراء العميل
+Customer PO Details,بيانات أمر شراء العميل
+Customer Name in Arabic,الأسم الكامل باللغة العربية
+Address Line 2,العنوان باللغة العربية
+Address Line 1,العنوان باللغة الأنجليزية
+Please check your email for verification,يرجى التحقق من بريدك الإلكتروني لإنشاء كلمة المرور
+Registered but disabled,الحساب مسجل لكن متوقف برجاء التواصل مع المبيعات
+Show,إظهار
+Outgoing Bills ,الفواتير الصادرة
+Monthly,السنة الماضية
+Yearly,سنوي
+Quarterly,شهري
+Weekly,إسبوعي
+Daily,يومي
+My Profile,ملفي الشخصي
+My Settings,إعداداتي
+Toggle Full Width,عرض مليء الشاشة
+Unit of Measure (UOM),وحدات القياس
+KSA VAT Report,تقرير ضريبة القيمة المضافة السعودية
+Items to Order and Receive,العناصر المطلوبة للطلب والاستلام
+CRM,إدارة علاقات العملاء
+Modules,وحدات برمجية
+Employees Working on a Holiday,الموظفون يعملون في يوم الأجازة
+Employee Hours Utilization Based On Timesheet,استخدام ساعات الموظف على أساس الجدول الزمني
+Employee Hours Utilization,استخدام ساعات الموظف 
