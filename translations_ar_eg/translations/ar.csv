@@ -273,7 +273,7 @@ COGS By Item Group,COGS حسب مجموعة الأصناف
 COGS Debit,الخصم COGS
 COLOR PICKER,أداة انتقاء اللون
 CPT (Carriage Paid To),CPT (عربة مدفوعة ل)
-CRM Settings,إعدادات إدارة علاقات العملاء
+CRM Settings,إعدادات علاقات العملاء
 Calculate Gratuity Amount Based On,احسب مبلغ الإكرامية على أساس
 Calculate Product Bundle Price based on Child Items' Rates,احسب سعر الصنف المجمع بناءً على أسعار الأصناف الفرعية
 Call Again,اتصل مرة اخرى
@@ -7369,8 +7369,10 @@ Toggle Full Width,عرض مليء الشاشة
 Unit of Measure (UOM),وحدات القياس
 KSA VAT Report,تقرير ضريبة القيمة المضافة السعودية
 Items to Order and Receive,العناصر المطلوبة للطلب والاستلام
-CRM,إدارة علاقات العملاء
+CRM,علاقات العملاء
 Modules,وحدات برمجية
 Employees Working on a Holiday,الموظفون يعملون في يوم الأجازة
 Employee Hours Utilization Based On Timesheet,استخدام ساعات الموظف على أساس الجدول الزمني
 Employee Hours Utilization,استخدام ساعات الموظف 
+MODULES,وحدات برمجية
+Build,بناء برمجيات
