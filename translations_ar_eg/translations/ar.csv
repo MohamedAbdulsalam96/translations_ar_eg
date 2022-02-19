@@ -6932,3 +6932,376 @@ Daily,يومي
 My Profile,ملفي الشخصي
 My Settings,إعداداتي
 Toggle Full Width,عرض مليء الشاشة
+ Items),الأصناف)
+ MATCH, تطابق
+ or for Department: {0}, أو للإدارة: {0}
+"From Date can not be greater than or equal to ""To Date""","لا يمكن أن يكون ""من التاريخ"" أكبر من ""حتى تاريخ"" أو مساويًا له"
+'Account' in the Accounting section of Customer {0},الحساب في قسم المحاسبة لدى العميل {0}
+'Default {0} Account' in Company {1},الحساب {0} الافتراضي في الشركة {1}
+'{0}' is not a valid URL,{0} ليس عنوان URL صالحًا
+1 Currency = [?] Fraction|||For e.g. 1 USD = 100 Cent,1 العملة = [؟] الكسر ||| على سبيل المثال 1 دولار أمريكي = 100 سنت
+A0,أ 0
+A1,أ 1
+A2,أ 2
+A3,أ3
+A5,أ5
+A6,أ 6
+A7,أ 7
+A8,أ 8
+A9,أ 9
+Active Company,شركة نشطة
+Active Users,المستخدمين النشطين
+Add / Remove Columns,إضافة / إزالة الأعمدة
+Add Discount,أضف الخصم
+Add New Address,أضف عنوان جديد
+Add a row above the current row,أضف صفًا أعلى الصف الحالي
+Add a row at the bottom,أضف صفًا في الأسفل
+Add a row at the top,أضف صفًا في الأعلى
+Add a row below the current row,أضف صفًا أسفل الصف الحالي
+Additional,إضافي
+Additional Discount %,خصم إضافي ٪
+Additional Information ,معلومة اضافية
+Adjustment Against,تعديل مقابل
+Advance Tax,الضريبة المقدمة
+Ageing Report based on ,تقرير الأعمار على أساس
+All Items,جميع الأصناف
+Allow Create Sales Order,السماح بإنشاء أمر مبيعات
+Allow Credit Sale,السماح ببيع دائن
+Allow Customer Purchase Order,السماح بأمر شراء العميل
+Allow Partial Payment,السماح بالدفع الجزئي
+Allow Print Last Invoice,السماح بطباعة الفاتورة الأخيرة
+Allow Return,السماح بالإرتجاع
+Allow Submissions in background job,السماح بالترحيل في الخلفية 
+Allow User to Edit Item Discount,السماح للموظف بتحرير خصم الصنف
+Allow user to edit Additional Discount,السماح للموظف بتعديل الخصم الإضافي
+Allow user to edit Rate,السماح للموظف بتحرير السعر
+Amended document gets the name of the original document if enabled and will be applicable to all submittable doctypes. This is a nonreversible operation. ,يحصل المستند المعدل على اسم المستند الأصلي إذا تم تمكينه وسينطبق على جميع نماذج المستندات القابلة للإرسال. هذه عملية لا رجوع فيها.
+Amount Eligible for Commission,المبلغ المؤهل للعمولة
+Applicant ,طالب وظيفة
+Apply Customer Discount,تطبيق خصم العملاء
+Apply For,التقدم بطلب للحصول
+Apply Tax Withholding Amount ,تطبيق مبلغ ضريبة الخصم والإضافة
+Apply Type,تطبيق النوع
+Arabic name missing for {} in the company document,الاسم العربي لـ {} مفقود في مستند الشركة
+Auto Apply,تطبيق تلقائي
+Auto Create Referral For New Customers,إنشاء إحالة تلقائي للعملاء الجدد
+Auto Delete Draft Invoice,الحذف التلقائي لمسودة الفاتورة
+Auto Fetch Coupon Gifts,الحصول التلقائي على قسائم الهدايا
+Auto Fetch Serial Numbers,الحصول علي الأرقام التسلسلية تلقائيًا
+Auto Set Batch,مجموعة الدفعة
+Auto Write Off Amount ,مبلغ الشطب التلقائي
+Available Credit,الرصيد المتوفر
+Available QTY,الكمية المتوفرة
+B0,ب 0
+B1,ب 1
+B10,ب 10
+B2,ب2
+B3,ب 3
+B4,ب 4
+B5,ب 5
+B6,ب 6
+B7,ب 7
+B8,ب 8
+B9,ب 9
+Backup Files (MB),ملفات النسخ الاحتياطي (ميغا بايت)
+Balance Qty (Stock ,كمية الرصيد في المخزن
+Bank Expense Account,حساب مصاريف البنك
+Batch No Available QTY,دفعة غير متوفرة الكمية
+Batch No Expiry Date,دفعة لا تاريخ انتهاء الصلاحية
+Bill Ref Number,رقم مرجع الفاتورة
+Birthday,عيد الميلاد
+Business Short Code,الرمز المختصر للأعمال
+C5E,C5E
+Cannot change docstatus from 0 (Draft) to 2 (Cancelled),لا يمكن تغيير حالة المستند من 0 (مسودة) إلى 2 (تم الإلغاء)
+Cannot change docstatus from 1 (Submitted) to 0 (Draft),لا يمكن تغيير حالة المستند من 1 (تم الإرسال) إلى 0 (مسودة)
+Cannot mark Inpatient Record as Discharged since there are unbilled services. ,لا يمكن وضع علامة على سجل المرضى الداخليين على أنه تم تفريغه نظرًا لوجود خدمات غير مسددة.
+Cash Mode of Payment,طريقة الدفع النقدي
+Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.||||||,حدد هذا لتمييز الطالب على أنه موجود في حالة عدم حضور الطالب للمعهد للمشاركة أو تمثيل المعهد في أي حدث. ||||||
+Choose an icon,اختر رمزا
+Click to add email / phone,انقر لإضافة بريد إلكتروني / هاتف
+Close Shift,إغلاق الوردية
+Closing POS Shift,إغلاق وردية في نقاط البيع
+Comm10E,Comm10E
+Company Allowed,مسموح للشركة
+Company Expenses,مصاريف الشركة
+Company is required,مطلوب شركة
+Complete Order,اكمل الطلب
+Confirm Mobile Number,تأكيد رقم الهاتف المحمول
+Copy error to clipboard,خطأ في النسخ إلى الحافظة
+Cost Center is not set in pos profile {},لم يتم تعيين مركز التكلفة في الملف الشخصي لنقاط البيع {}
+Coupon,قسيمة
+Coupon Based,على أساس القسيمة
+Create Link,إنشاء رابط
+Create POS Opening Shift,إنشاء وردية فتح نقاط البيع
+Credit Change,تغيير الائتمان
+Current Employer ,صاحب العمل الحالي
+Customer ,عميل
+Customer Info,معلومات العميل
+Customer contact created successfully.,تم إنشاء جهة اتصال العميل بنجاح.
+Customer not found,العميل غير موجود
+Customer: ,عميل:
+DLE,DLE
+Database Details,تفاصيل قاعدة البيانات
+Database Size (MB),حجم قاعدة البيانات (ميغا بايت)
+Database Space Allowed (MB),مساحة قاعدة البيانات المسموح بها (ميغا بايت)
+Date ,تاريخ
+Date: ,تاريخ:
+Default Loyalty Program,برنامج الولاء الافتراضي
+Deferred Revenue and Expense,الإيرادات والمصروفات المؤجلة
+Deletion Steps ,خطوات الحذف
+Depreciation Expense Account should be an Income or Expense Account.,يجب أن يكون حساب مصروفات الإهلاك حساب دخل أو حساب.
+Disable System Update Notification,تعطيل إعلام تحديث النظام
+Discount %,خصم ٪
+Discussion Reply,الرد على المناقشة
+Discussion Topic,موضوع المناقشة
+Display Additional Notes,عرض ملاحظات إضافية
+Edit Cart,تعديل سلة التسوق
+Employee Responsible ,الموظف المسؤول
+Erpnext Quota,حصة Erpnext
+Error while processing deferred accounting for Invoice {0},خطأ أثناء معالجة المحاسبة المؤجلة للفاتورة {0}
+Executive,تنفيذي
+Expense Claim Details,تفاصيل مطالبة المصاريف
+Files Space Allowed (MB),مساحة الملفات المسموح بها (ميغا بايت)
+Final Customer Offer,عرض العميل النهائي
+First Name ,الاسم الأول
+Folio,فوليو
+For Designation ,للتعيين
+For POS Closing Shift Payment Reconciliation,لتسوية مدفوعات إغلاق نقاط البيع
+Fraction of Applicable Earnings ,جزء من الأرباح المطبقة
+Give Item,أعط الصنف 
+Give Item Row ID,أعط معرف صف الصنف
+Give Product,أعط المنتج
+Given Quantity,معطى الكمية
+Grant Commission,منح العمولة
+Grid Shortcuts,اختصارات الشبكة
+Group not found,المجموعة غير موجودة
+Hide Close Shift,إخفاء إغلاق الوردية
+Hide Variants Items,إخفاء عناصر المتغيرات
+If the condition is satisfied user will be rewarded with the points. eg. doc.status == 'Closed'|||,إذا تم استيفاء الشرط ، فسيتم مكافأة الموظف بالنقاط. على سبيل المثال doc.status == 'مغلق' 
+In Minutes,في دقائق
+Invalid docstatus,حالة مستند غير صالحة
+Invalid value for maximum Database Space limit. it can be a whole number only.,قيمة غير صالحة للحد الأقصى لمساحة قاعدة البيانات. يمكن أن يكون عددًا صحيحًا فقط.
+Invalid value for maximum Space limit. It can be a whole number only.,قيمة غير صالحة للحد الأقصى للمساحة. يمكن أن يكون عددًا صحيحًا فقط.
+Invalid value for maximum User Allowed limit. it can be a whole number only.,قيمة غير صالحة للحد الأقصى المسموح به للموظف. يمكن أن يكون عددًا صحيحًا فقط.
+Invalid value for maximum allowed Companies limit. it can be a whole number only.,قيمة غير صالحة للحد الأقصى المسموح به للشركات. يمكن أن يكون عددًا صحيحًا فقط.
+Invoice {0} Deleted,الفاتورة {0} محذوفة
+Invoiced Amount (Excl. Tax),مبلغ الفاتورة (بدون الضريبة)
+Is Cashback,هو استرداد نقدي
+Is Credit Sale,هو بيع دائن
+Is Offer,هو العرض
+Is Offer Replace For item Row ID,يتم استبدال العرض لمعرف صف الصنف
+It is best not to use more than four numbers,من الأفضل عدم استخدام أكثر من أربعة أرقام
+Item Rate Should Less Then,يجب أن يكون سعر السلعة أقل بعد ذلك
+Items Discounts,خصومات الأصناف
+Items Group,مجموعة العناصر
+Last Odometer Value ,قيمة آخر عداد المسافات
+Link with Customer,الارتباط بالعميل
+Link with Supplier,الارتباط بالمورد
+Linking Failed,فشل الربط
+Linking to Customer Failed. Please try again.,فشل الارتباط بالعميل. حاول مرة اخرى.
+Linking to Supplier Failed. Please try again.,فشل الربط بالمورد. حاول مرة اخرى.
+Log In,تسجيل دخول
+Loyalty Point,نقطة الولاء
+Loyalty Point Offer Applied,تم تطبيق عرض نقاط الولاء
+Loyalty Point Scheme,نظام نقاط الولاء
+MSISDN,MSISDN
+Max Discount Percentage Allowed ,نسبة الخصم القصوى المسموح بها
+Max Quantity,الكمية القصوى
+Maximum points allowed after multiplying points with the multiplier value|||(Note: For no limit leave this field empty or set 0),الحد الأقصى للنقاط المسموح بها بعد مضاعفة النقاط بقيمة المضاعف ||| (ملاحظة: لعدم وجود حد ، اترك هذا الحقل فارغًا أو قم بتعيين 0)
+Min Quantity,أقل كمية
+Mismatch,عدم تطابق
+Missing Finished Good,المنتجات التامة مفقودة
+Missing Value,قيمة مفقودة
+Mobile NO,رقم الجوال
+Mode of Payment is required,طريقة الدفع مطلوبة
+Move cursor to above row,حرك المؤشر إلى الصف العلوي
+Move cursor to below row,حرك المؤشر إلى الصف السفلي
+Move cursor to next column,حرك المؤشر إلى العمود التالي
+Move cursor to previous column,حرك المؤشر إلى العمود السابق
+Mpesa C2B Register URL,Mpesa C2B تسجيل URL
+Mpesa Payment Register,سجل الدفع Mpesa
+Mycustomization,التخصيص
+New Customer,عميل جديد
+New Offer Available,عرض جديد متاح
+No items in cart,لا توجد عناصر في سلة التسوق
+Offer,عرض
+Offer Applied,تم تطبيق العرض
+Offer Name,اسم العرض
+Offers,عروض
+On checking this Order from the ,عند التحقق من هذا الأمر من
+Only Deduct Tax On Excess Amount ,فقط خصم الضريبة على المبلغ الزائد
+Only One Use Per Customer,استخدام واحد فقط لكل عميل
+Only {} company(s) allowed and you have {} company(s).Please remove other company or to increase the limit please contact sales,مسموح فقط بـ {} شركة (شركات) ولديك {} شركة (شركات). الرجاء إزالة شركة أخرى أو لزيادة الحد الأقصى ، يرجى الاتصال بالمبيعات
+Org Account Balance,رصيد حساب المؤسسة
+PAY,يدفع
+PDF Page Height (in mm),ارتفاع صفحة PDF (ملم)
+PDF Page Width (in mm),عرض صفحة PDF (ملم)
+POS Awesome,نقاط البيع 
+POS Awesome Advance Settings,إعدادات متقدمة لنقاط البيع
+POS Awesome Settings,إعدادات نقاط البيع 
+POS Closing Shift,إغلاق وردية لنقاط البيع
+POS Closing Shift Detail,تفاصيل إغلاق وردية لنقاط البيع
+POS Closing Shift Taxes,ضرائب الإغلاق في نقاط البيع
+POS Coupon,قسيمة نقاط البيع
+POS Coupon Detail,تفاصيل قسيمة نقاط البيع
+POS Coupons Detail,كوبونات نقاط البيع 
+POS Offer,عرض نقاط البيع
+POS Offer Detail,تفاصيل عرض نقاط البيع
+POS Offer is disable.,تم تعطيل عرض نقاط البيع
+POS Offers,عروض نقاط البيع
+POS Offers Detail,تفاصيل عروض نقاط البيع
+POS Opening Shift,فتح وردية نقاط البيع
+POS Opening Shift Detail,تفاصيل وردية فتح نقاط البيع
+POS Shift,وردية في نقاط البيع
+POSAwesome,نقطة البيع
+Page Height (in mm),ارتفاع الصفحة (ملم)
+Page Size,مقاس الصفحه
+Page Width (in mm),عرض الصفحة (ملم)
+Page height and width cannot be zero,لا يمكن أن يكون ارتفاع الصفحة وعرضها صفرًا
+Page to show on the website|||,الصفحة المراد عرضها على الموقع 
+Paid Change,التغيير المدفوع
+Password set,تعيين كلمة المرور
+Payment Entry is already created or payment account is not matched,تم إنشاء إدخال الدفع بالفعل أو أن حساب الدفع غير مطابق
+Please enter your new password.,الرجاء إدخال كلمة المرور الجديدة الخاصة بك.
+Please enter your old password.,الرجاء إدخال كلمة المرور القديمة الخاصة بك.
+Please select Coupon Code Based POS Offer.,يرجى تحديد عرض نقاط البيع على أساس رمز القسيمة.
+Please select the correct POS Offer with the same company.,الرجاء تحديد عرض نقاط البيع الصحيح مع نفس الشركة.
+Please set Fixed Asset Account in {} against {}.,يرجى تعيين حساب الأصول الثابتة في {} مقابل {}.
+Posting Details,تفاصيل الترحيل
+Press Cmd+Enter to post your comment,اضغط على Cmd + Enter لنشر تعليقك
+Price Discount Scheme ,مخطط خصومات الأسعار
+Price list Rate,سعر قائمة الأسعار
+Primary Customer Offer,عرض العميل الأساسي
+Print Last Invoice,طباعة الفاتورة الأخيرة
+Printed,مطبوعة
+Private Files (MB),الملفات الخاصة (ميغا بايت)
+Promo Type,نوع العرض الترويجي
+Public Files (MB),الملفات العامة (ميغا بايت)
+QTY,الكمية
+Qualifying Transaction / Item,معاملة / صنف مؤهل
+Quantity and Amount Conditions,شروط الكمية والمبلغ
+Quantity not available for the following items in warehouse {0}. ,الكمية غير متوفرة للعناصر التالية في المخزن {0}.
+Quotation Number,رقم عرض السعر
+Recent Orders,الطلبيات الأخيرة
+Redeem Credit,استرداد الرصيد
+Redeemed Customer Credit,استرداد رصيد العميل
+Reference Detail,التفاصيل المرجعية
+Reference number of the invoice from the previous system,الرقم المرجعي للفاتورة من النظام السابق
+Referral Campaign,حملة الإحالة
+Referral Code is required,كود الإحالة مطلوب
+Referral Code {0} is disabled,تم تعطيل كود الإحالة {0}
+Referral Code {0} is not exists,رمز الإحالة {0} غير موجود
+Referral Company,شركة الإحالة
+Referral Name,اسم الإحالة
+Register Status,تسجيل الحالة
+Repayment against Loan: ,السداد مقابل القرض:
+Replace Cheapest Item,استبدال الصنف الأرخص
+Replace Same Item,استبدال نفس الصنف
+Request,طلب
+Reset to default,إعادة تعيين إلى الافتراضي
+Response ,إستجابة
+Restore Asset,استعادة الأصل
+Revenue,إيرادات
+Role Allowed to Over Bill ,الدور المسموح به لأكثر من قيمة الفاتورة
+Row #{0}: Received Qty must be equal to Accepted + Rejected Qty for Item {1},الصف رقم {0}: يجب أن تكون الكمية المستلمة مساوية للكمية المقبولة + المرفوضة للعنصر {1}
+Row #{0}: Service Start Date cannot be before Invoice Posting Date,الصف # {0}: لا يمكن أن يكون تاريخ بدء الخدمة قبل تاريخ ترحيل الفاتورة
+Row ID,معرف الصف
+Salary Component ,مكون الراتب
+Sales Invoice Reference,مرجع فاتورة المبيعات
+Sales Partner ,شريك المبيعات
+Scale Barcode Start With,مقياس الباركود يبدأ بـ
+Scrap Asset,تخريد الأصل
+Scrap/Loss Item: {0} should not have Is Process Loss checked as it is different from  the item to be manufactured or repacked,عنصر الخردة / الضياع: {0} يجب ألا يتم التحقق من فقد العملية لأنه يختلف عن الصنف المراد تصنيعه أو إعادة تعبئته
+Search Items,عناصر البحث
+Search by Serial Number,البحث عن طريق الرقم التسلسلي
+Select  Leave Approver for an employee. The user one who will look after his/her Leave application,حدد الموافقة على الإجازة لموظف. المستخدم الذي سيهتم بطلب الإجازة
+Select Hold Invoice,حدد الفاتورة المعلقة
+Select Payment,حدد الدفع
+Select Return Invoice,حدد فاتورة الإرجاع
+Select a Customer,حدد العميل
+Select an invoice to load summary data,حدد فاتورة لتحميل بيانات الملخص
+Selected POS Opening Shift should be open.,يجب فتح وردية عمل لفتح نقاط البيع المحددة.
+Sell Asset,بيع الأصول
+Send invoice to submit after printing,إرسال الفاتورة لترحيلها بعد الطباعة
+Serial No QTY,المسلسل لا الكمية
+Shortfall Repayment of {0}.||||Repayment against Loan: {1},سداد النقص في {0}.  السداد مقابل القرض: {1}
+Show Template Items,إظهار عناصر النموذج
+Show pending entries,إظهار الإدخالات المعلقة
+Show with upcoming revenue/expense,تظهر مع الإيرادات / النفقات القادمة
+Skipped,تم تخطي
+Sold by,تم بيعها من قبل
+Space Usage Details,تفاصيل استخدام الفراغ
+Stock Ledger Invariant Check,فحص المخزون لدفتر الأستاذ
+Stock QTY,كمية المخزون
+Stock/Accounts can not be frozen as processing of backdated entries is going on. Please try again later.,لا يمكن تجميد المخزون / الحسابات لأن معالجة الإدخالات القديمة جارية. الرجاء معاودة المحاولة في وقت لاحق.
+Submit Payment ,ترحيل الدفع
+Submit Payments,ترحيل المدفوعات
+Successfully linked to Customer,تم الارتباط بالعميل بنجاح
+Successfully linked to Supplier,تم ربطه بالمورد بنجاح
+System Notifications,إخطارات النظام
+System Updates,تحديثات النظام
+Tabloid,صحيفة شعبية
+Tax ID missing for {} in the company document,المعرّف الضريبي مفقود لـ {} في مستند الشركة
+Tax Inclusive,شامل الضريبة
+Tax and Charges,الضرائب والرسوم
+Tax detail table fetched from item master as a string and stored in this field.|||Used for Taxes and Charges,تم الحصول علي جدول التفاصيل الضريبية من مدير الصنف كسلسلة وتخزينه في هذا الحقل ||| يُستخدم للضرائب والرسوم
+Territory not found,لم يتم العثور على المنطقة
+"The Client ID obtained from the Google Cloud Console under <a href=""https://console.cloud.google.com/apis/credentials"">|||""APIs &amp; Services"" &gt; ""Credentials""|||</a>","معرّف العميل الذي تم الحصول عليه من Google Cloud Console ضمن <a href=""https://console.cloud.google.com/apis/credentials""> ||| ""واجهات برمجة التطبيقات والخدمات"" & gt؛ ""أوراق الاعتماد"" ||| </a>"
+"The browser API key obtained from the Google Cloud Console under <a href=""https://console.cloud.google.com/apis/credentials"">|||""APIs &amp; Services"" &gt; ""Credentials""|||</a>","مفتاح واجهة برمجة تطبيقات المتصفح الذي تم الحصول عليه من Google Cloud Console ضمن <a href=""https://console.cloud.google.com/apis/credentials""> ||| ""واجهات برمجة التطبيقات والخدمات"" & gt؛ ""أوراق الاعتماد"" ||| </a>"
+The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,التاريخ الذي سيساهم فيه مكون الراتب مع المبلغ في الأرباح / الخصم في قسيمة الراتب.
+The page you are looking for has gone missing.,الصفحة التي تبحث عنها مفقودة.
+"The project number obtained from Google Cloud Console under <a href=""https://console.cloud.google.com/iam-admin/settings"">|||""IAM &amp; Admin"" &gt; ""Settings""|||</a>","رقم المشروع الذي تم الحصول عليه من Google Cloud Console ضمن <a href=""https://console.cloud.google.com/iam-admin/settings""> ||| ""IAM & amp؛ Admin"" & gt؛ ""إعدادات"" ||| </a>"
+The system is being updated. Please refresh again after a few moments.,يتم تحديث النظام. يرجى التحديث مرة أخرى بعد لحظات قليلة.
+There must be atleast 1 Finished Good in this Stock Entry,يجب أن يكون هناك ما لا يقل عن 1 سلعة منتهية في إدخال المخزون هذا
+There's nothing here,لا يوجد شيء هنا
+Third Party Trans ID,معرف تحويل للطرف الثالث
+This Referral Code {0} not exists,رمز الإحالة هذا {0} غير موجود
+This coupon already used !,تم استخدام هذه القسيمة بالفعل!
+This field will appear only if the fieldname defined here has value OR the rules are true (examples): |||myfield|||eval:doc.myfield=='My Value'|||eval:doc.age&gt;18,سيظهر هذا الحقل فقط إذا كان اسم الحقل المحدد هنا له قيمة أو كانت القواعد صحيحة (أمثلة): ||| myfield ||| Eval: doc.myfield == 'My Value' ||| Eval: doc.age & gt؛ 18
+This invoice {0} cannot be deleted,لا يمكن حذف هذه الفاتورة {0}
+To duplcate current row,لنسخ الصف الحالي
+To(Year) year can not be less than From(year) ,إلى (سنة) سنة لا يمكن أن تكون أقل من من (سنة)
+Total Items,إجمالي الأصناف
+Trans Amount,المبلغ المحول
+Trans Amount is required,المبلغ المحول مطلوب
+Trans ID,معرف التحويل
+Trans Time,وقت التحويل
+Transfer Asset,نقل الأصول
+Translations Ar Eg,الترجمات Ar Eg
+Type here. Use markdown to format.,أكتب هنا. استخدم تخفيض السعر للتنسيق.
+Type title,اكتب العنوان
+Unclaimed Amount,المبلغ غير المطالب به
+Updated via 'Time Log' (In Minutes),"تم التحديث عبر ""سجل الوقت"" (بالدقائق)"
+Use Browser Local Storage,استخدم التخزين المحلي للمستعرض
+Use Cashback,استخدم كاش باك
+Use Customer Credit,استخدم رصيد العميل
+Use Item based reposting,استخدام إعادة الترحيل على أساس الصنف
+Use Percentage Discount,استخدم النسبة المئوية للخصم
+Used Space (MB),المساحة المستخدمة (ميغا بايت)
+Users Allowed,يسمح للموظفين
+View General Ledger,مشاهدة ملف دفتر الأستاذ العام
+Want to join the discussion?,هل تريد الانضمام إلى المناقشة؟
+Work Anniversaries ,احتفالات الذكرى السنوية للعمل
+You can redeem credit upto,يمكنك استرداد رصيد يصل حتي
+You can redeem upto,يمكنك استرداد ما يصل حتي
+You site is suspended. Please contact Sales,تم تعليق موقعك. الرجاء الاتصال بقسم المبيعات
+Your new password has been set successfully.,تم تعيين كلمة المرور الجديدة الخاصة بك بنجاح.
+add,يضيف
+at,في
+base grand total,المجموع الكلي الأساسي
+chapters/chapter_name|||leave blank automatically set after saving chapter.,chapters / Chapter_name ||| ترك فارغًا يتم تعيينه تلقائيًا بعد حفظ الفصل.
+credit,دائن
+debit,مدين
+discount applied,الخصم قد تم
+doc,وثيقة
+from,من
+gle_posting_date,تاريخ
+is Offer,هو عرض
+item,غرض
+must be between 0 and 100,يجب أن يكون بين 0 و 100
+negative outstanding amount,المبلغ المستحق السلبي
+paid_amount,المبلغ المدفوع
+paid_from,مدفوع_من
+pe,بي
+return_amount,قيمة المرتجع
+POS Coupons,قسيمة نقاط البيع
