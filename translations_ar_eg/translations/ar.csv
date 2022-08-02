@@ -7383,7 +7383,7 @@ Facility Management,إدارة الوحدات الصحية
 Inpatient,مريض داخلي
 BBQ,شواء
 Basketball court,ملعب كرة السلة
-Business center ,مركز أعمال
+Business center,مركز أعمال
 Clubhouse,كلوب هاوس
 Elevator,مصعد
 Fitness center,مركز اللياقة البدنية
@@ -7423,7 +7423,7 @@ Property Setup,إعدادات الواحدات العقارية
 Unit Type,أنواع الوحدات
 Amenity,وسائل الراحة
 Feature,المزايا والرفاهية
-Floor ,الطوابق
+Floor,الطوابق
 Issues,طلبات الصيانة
 Issue,طلب صيانة
 Issue Priority,أولويات الصيانة
@@ -7448,3 +7448,6 @@ Bedrooms,عدد الغرف
 Property Feature,مزايا العقار
 Property Amenities,وسائل الراحة للعقار
 Tenants,العملاء المستأجرين
+Vacant,شاغر
+Occupied,مشغول
+Renovation,تحت الصيانة
