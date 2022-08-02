@@ -7416,3 +7416,35 @@ Commercial,تجاري
 Other,أخري
 Activity,نشاط
 Property Activity Type,طبيعة نشاط الوحدة
+Dunning,إنذار الدفع
+Payment Dunning,إنذار الدفع المتأخرات
+Property Management,الوحدات العقارية
+Property Setup,إعدادات الواحدات العقارية
+Unit Type,أنواع الوحدات
+Amenity,وسائل الراحة
+Feature,المزايا والرفاهية
+Floor ,الطوابق
+Issues,طلبات الصيانة
+Issue,طلب صيانة
+Issue Priority,أولويات الصيانة
+Issue Type,أنواع الصيانة
+Property,العقارات
+Owner Address,عنوان المالك
+Property Name,إسم العقار
+Owner Bank Account,رقم حساب بنك المالك
+Owner Name,إسم مالك العقار
+Owner Tax ID,الرقم الضريبي للمالك
+Owner Phone,جوال المالك
+Owner Email,بريد المالك الإلكتروني
+Features & Amenities,وسائل الراحة والمزايا
+Property Units,وحدات العقار
+Units,الوحدات
+Unit Name,إسم الوحدة
+Unit Owner,مالك الوحدة
+Unit Details,تفاصيل الوحدة
+Size (in Sq. ft),المقاس (متر مربع)
+Bathrooms,عدد الحمامات
+Bedrooms,عدد الغرف
+Property Feature,مزايا العقار
+Property Amenities,وسائل الراحة للعقار
+Tenants,العملاء المستأجرين
