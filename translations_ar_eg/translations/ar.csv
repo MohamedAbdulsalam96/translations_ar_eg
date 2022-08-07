@@ -7451,3 +7451,18 @@ Tenants,العملاء المستأجرين
 Vacant,شاغر
 Occupied,مشغول
 Renovation,تحت الصيانة
+Units Status,حالة الوحدات
+Property Dashboard,لوحة معلومات العقارات
+Property Count,عدد العقارات
+Unit Count,عدد الوحدات
+Partially Completed Maintenance,الصيانات الغير مكتملة
+Opened Issue,طلبات صيانة لم تنفذ
+Paid Invoice this Month,الفواتير المدفوعة خلال الشهر
+Overdue Invoice Amount,قيمة الفواتير المتأخرة
+Total Customers,عدد العملاء
+Issue Status,حالة طلبات الصيانة
+Maintenance Status,حالة زيارات الصيانة
+Invoice Status,حالة الفواتير
+Unit Per Activity,الوحدات حسب النشاط
+Not Specified,غير محدد
+Property Management Dashboard,لوحة معلومات العقارات
