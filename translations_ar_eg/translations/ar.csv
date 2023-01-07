@@ -274,7 +274,7 @@ COGS Debit,الخصم COGS
 COLOR PICKER,أداة انتقاء اللون
 CPT (Carriage Paid To),CPT (عربة مدفوعة ل)
 CRM Settings,إعدادات علاقات العملاء
-Calculate Gratuity Amount Based On,احسب مبلغ الإكرامية على أساس
+Calculate Gratuity Amount Based On,احسب مبلغ نهاية الخدمة على أساس
 Calculate Product Bundle Price based on Child Items' Rates,احسب سعر الصنف المجمع بناءً على أسعار الأصناف الفرعية
 Call Again,اتصل مرة اخرى
 Call Ended,المكالمة انتهت
@@ -579,7 +579,7 @@ Employee name,اسم الموظف
 Employee records are created using the selected option,يتم إنشاء سجلات الموظفين باستخدام الخيار المحدد
 Employee {0} has already applied for {1} between {2} and {3} : {4},تقدم الموظف {0} بالفعل بطلب للحصول على {1} بين {2} و {3}: {4}
 Employee {0} not found in Training Event Participants.,"الموظف {0} غير موجود في ""تدريب المشاركين في الحدث""."
-Employee: {0} have to complete minimum {1} years for gratuity,الموظف: {0} يجب أن يكمل {1} سنوات كحد أدنى كمكافأة
+Employee: {0} have to complete minimum {1} years for gratuity,الموظف: {0} يجب أن يكمل {1} سنوات كحد أدنى نهاية الخدمة
 Employees will miss holiday reminders from {} until {}. <br> Do you want to proceed with this change?,لن يفوت الموظفون تذكيرات العطلات من {} حتى {}. <br> هل تريد متابعة هذا التغيير؟
 Enable Common Party Accounting,قم بتمكين للحسابات المشتركة للطرف (عميل/ مورد)
 Enable Discount Accounting,تفعيل محاسبة الخصم
@@ -709,11 +709,11 @@ Goods,بضائع
 Google Drive Picker,منتقي جوجل درايف
 Google Drive Picker Enabled,تم تفعيل منتقي Google Drive
 Graph,رسم بياني
-Gratuity,إكراميات
-Gratuity Applicable Component,المكون المطبق على الإكرامية
-Gratuity Rule,قاعدة الإكراميات
-Gratuity Rule Slab,شريحة قاعدة الإكراميات
-Gratuity Rules,قواعد الإكراميات
+Gratuity,نهاية الخدمة
+Gratuity Applicable Component,المكون المطبق على نهاية الخدمة
+Gratuity Rule,قاعدة نهاية الخدمة
+Gratuity Rule Slab,شريحة قاعدة نهاية الخدمة
+Gratuity Rules,قواعد نهاية الخدمة
 Greeting Message,رسالة تحية
 Grievance Against,التظلم مقابل
 Grievance Against Party,التظلم مقابل الطرف
@@ -1018,7 +1018,7 @@ Mid Center,منتصف المركز
 Minimum Net Rate,الحد الأدنى للمعدل الصافي
 Minimum Payment Amount,الحد الأدنى لمبلغ السداد
 Minimum Value,الحد الأدنى للقيمة
-Minimum Year for Gratuity,الحد الأدنى من سنة الإكرامية
+Minimum Year for Gratuity,الحد الأدنى من سنة نهاية الخدمة
 Misconfigured,خطأ في التكوين
 Missing,مفقود
 Missing Address Fields,حقول العنوان مفقودة
@@ -1073,7 +1073,7 @@ Nexus Address,عنوان Nexus
 Nexus List,قائمة Nexus
 No Answer,لا اجابة
 No Applicable Component is present in last month salary slip,لا يوجد أي مكون قابل للتطبيق في قسيمة راتب الشهر الماضي
-No Applicable Earnings Component found for Gratuity Rule: {0},لم يتم العثور على مكون أرباح سارية لقاعدة الإكراميات: {0}
+No Applicable Earnings Component found for Gratuity Rule: {0},لم يتم العثور على مكون أرباح سارية لقاعدة نهاية الخدمة: {0}
 No Customers found with selected options.,لم يتم العثور على عملاء بالخيارات المحددة.
 No Data to Show,لا توجد بيانات لعرضها
 No Drug Shortage,لا يوجد نقص في الأدوية
@@ -1091,7 +1091,7 @@ No Results found,لم يتم العثور على نتائج
 No Reviews,لم يتم تقديم تعليقات
 No Salary Slip is found for Employee: {0},لم يتم العثور على قسيمة راتب للموظف: {0}
 No Stock Available Currently,لا يوجد مخزون متاح حاليا
-No Suitable Slab found for Calculation of gratuity amount in Gratuity Rule: {0},لم يتم العثور على شريحة مناسب لاحتساب مبلغ الإكرامية في قاعدة المكافأة: {0}
+No Suitable Slab found for Calculation of gratuity amount in Gratuity Rule: {0},لم يتم العثور على شريحة مناسب لاحتساب مبلغ نهاية الخدمة في قاعدة نهاية الخدمة: {0}
 No Summary,لا ملخص
 No Tasks,لا توجد مهام
 No Tax Withholding data found for the current posting date.,لم يتم العثور على بيانات استقطاع ضريبي لتاريخ الترحيل الحالي.
@@ -7319,6 +7319,11 @@ New,جديد
 Under Collection,تحت التحصيل
 Collected,محصل
 Bounced Cheque,شيك مرتد
+Pay Cheque ,صرف شيك
+Paid Cheque from Bank ,تم صرف الشيك من البنك
+Pay Cheque from Bank ,صرف الشيك من البنك
+You Can't Pay in Bank before Cheque Reference Date ,لا يمكنك صرف الشيك من البنك قبل تاريخ إستحقاقه
+Please Select Withdrawing Bank ,رجاء إختيار بنك الصرف
 Endorsed,مظهر
 Returned To Customer,مرتد للعميل
 Drawn Bank,البنك المسحوب عليه
@@ -7466,3 +7471,4 @@ Invoice Status,حالة الفواتير
 Unit Per Activity,الوحدات حسب النشاط
 Not Specified,غير محدد
 Property Management Dashboard,لوحة معلومات العقارات
+Payment Request,مطالبة دفع
