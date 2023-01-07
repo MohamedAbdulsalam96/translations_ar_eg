@@ -156,7 +156,7 @@ Applicable From,ينطبق من
 Applicable On Account,ينطبق على الحساب
 Applicant,طالب وظيفة
 Applicant Rating,تصنيف مقدم الطلب
-Applicant-Wise Loan Security Exposure,التعرض لأمن قرض مقدم الطلب
+Applicant-Wise Loan Security Exposure,التعرض لأمن سلفه مقدم الطلب
 Applied on each reading.,تطبق على كل قراءة.
 Apply Filters,تطبيق الفلاتر
 Apply Putaway Rule,تطبيق قاعدة الإبعاد
@@ -304,7 +304,7 @@ Cannot cancel {0} {1} as Serial No {2} does not belong to the company {3},لا �
 Cannot cancel {0} {1} as Serial No {2} does not belong to the warehouse {3},لا يمكن إلغاء {0} {1} لأن الرقم التسلسلي {2} لا ينتمي إلى المخزن {3}
 Cannot cancel {0} {1} as Serial No {2} is active in warehouse {3},لا يمكن إلغاء {0} {1} لأن الرقم التسلسلي {2} نشط في المخزن {3}
 Cannot change Reference Document Type.,لا يمكن تغيير نوع المستند المرجعي.
-Cannot close loan as there is an outstanding of {0},لا يمكن إغلاق القرض لأن هناك مبلغًا معلقًا بقيمة {0}
+Cannot close loan as there is an outstanding of {0},لا يمكن إغلاق السلفة لأن هناك مبلغًا معلقًا بقيمة {0}
 Cannot convert Task to non-group because the following child Tasks exist: {0}.,لا يمكن تحويل المهمة إلى غير مجموعة بسبب وجود المهام الفرعية التالية: {0}.
 Cannot convert to Group because Account Type is selected.,لا يمكن التحويل إلى مجموعة لأنه تم تحديد نوع الحساب.
 Cannot create Salary Slip for Employee joining after Payroll Period,لا يمكن إنشاء قسيمة راتب للموظف المنضم بعد فترة الرواتب
@@ -488,7 +488,7 @@ Disable Serial No And Batch Selector,تعطيل الرقم التسلسلي وم
 Disabled Warehouse {0} cannot be used for this transaction.,لا يمكن استخدام مخزن معطل {0} لهذه المعاملة.
 Disbursement,الصرف
 Disbursement References,مراجع الصرف
-Disbursement against loan:,الصرف مقابل قرض:
+Disbursement against loan:,الصرف مقابل سلفة:
 Discharge Datetime,تاريخ الخروج
 Discharge Ordered Datetime,تاريخ ووقت طلب الخروج 
 Discharge date cannot be less than Admission date,لا يمكن أن يكون تاريخ الخروج أقل من تاريخ القبول
@@ -506,7 +506,7 @@ Distinct Item and Warehouse,صنف ومخزن مميزان
 Distribute Manually,وزع يدويا
 Do Not Bill Patient Encounters for Inpatients,لا تقم بإجراء الفواتير على لقاءات المرضى للمرضى الداخليين
 Do not have permission to access bucket {0}.,ليس لديك صلاحية للوصول إلى الحاوية {0}.
-Do you really want to close this loan,هل تريد حقًا إغلاق هذا القرض
+Do you really want to close this loan,هل تريد حقًا إغلاق هذه السلفة
 DocType Layout,تخطيط نوع DocType
 DocType Layout Field,حقل تخطيط نوع DocType
 DocType must be a string,يجب أن يكون نوع DocType سلسلة
@@ -804,7 +804,7 @@ Inter,انتر
 Inter State tax category for GST State {0} already exists,فئة الضرائب بين الولايات لـ الضريبة State {0} موجودة بالفعل
 Interest %,فائدة ٪
 Interest Outstanding,المعلقة الفائدة
-Interest accrued from {0} to {1} against loan: {2},الفائدة المتراكمة من {0} إلى {1} مقابل القرض: {2}
+Interest accrued from {0} to {1} against loan: {2},الفائدة المتراكمة من {0} إلى {1} مقابل السلفة: {2}
 Internal Customer for company {0} already exists,العميل الداخلي للشركة {0} موجود بالفعل
 Internal Sale or Delivery Reference missing.,البيع الداخلي أو مرجع التسليم مفقود.
 Internal Sales Reference Missing,مرجع المبيعات الداخلية مفقود
@@ -963,15 +963,15 @@ LinkedIn Error - Unauthorized,LinkedIn خطأ - غير مصرح به
 Lists,القوائم
 Load more,تحميل المزيد
 Loading user profile,تحميل ملف تعريف الموظف
-Loan Interest Report,تقرير فائدة القرض
-Loan Security Exposure,التعرض لأمن القرض
-Loan Security Unpledge Error,خطأ في إلغاء تأمين القرض
-Loan Security Value after unpledge is {0},تبلغ قيمة ضمان القرض بعد إلغاء التعهد {0}
-Loan To Security Value ratio must always be {0},يجب أن تكون نسبة قيمة القرض إلى الضمان دائمًا {0}
-Loan To Value ratio breach,نسبة القرض إلى القيمة
-Loan Write Off,شطب القرض
-Loan Write Off will be automatically created on loan closure request if pending amount is below this limit,سيتم إنشاء شطب القرض تلقائيًا عند طلب إغلاق القرض إذا كان المبلغ المعلق أقل من هذا الحد
-Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1},لا يمكن سداد القرض من الراتب للموظف {0} نظرًا لمعالجة الراتب بالعملة {1}
+Loan Interest Report,تقرير فائدة السلفة
+Loan Security Exposure,التعرض لأمن السلفه
+Loan Security Unpledge Error,خطأ في إلغاء تأمين السلفة
+Loan Security Value after unpledge is {0},تبلغ قيمة ضمان السلفه بعد إلغاء التعهد {0}
+Loan To Security Value ratio must always be {0},يجب أن تكون نسبة قيمة السلفة إلى الضمان دائمًا {0}
+Loan To Value ratio breach,نسبة السلفة إلى القيمة
+Loan Write Off,شطب السلفة
+Loan Write Off will be automatically created on loan closure request if pending amount is below this limit,سيتم إنشاء شطب السلفة تلقائيًا عند طلب إغلاق السلفة إذا كان المبلغ المعلق أقل من هذا الحد
+Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1},لا يمكن سداد السلفة من الراتب للموظف {0} نظرًا لمعالجة الراتب بالعملة {1}
 Login Failed please try again,فشل تسجيل الدخول. يرجى المحاولة مرة أخرى
 Login Page,صفحة تسجيل الدخول
 Login With Email,تسجيل الدخول بالبريد الإلكتروني
@@ -1242,7 +1242,7 @@ Payment request failed,فشل طلب الدفع
 Payment term {0} not used in {1},مصطلح الدفع {0} غير مستخدم في {1}
 Payroll Payable Account,حساب الرواتب المستحق
 Penalty Interest %,فائدة جزائية ٪
-Penalty against loan:,الغرامة على القرض:
+Penalty against loan:,الغرامة على السلفة:
 Pending Leave,إجازة معلقة
 Pending principal amount is {0},المبلغ الأساسي المعلق هو {0}
 Per Received,لكل تلقى
@@ -1450,7 +1450,7 @@ Repair Details,تفاصيل الإصلاح
 Repair and Maintenance Account,حساب الإصلاح والصيانة
 Repay Unclaimed Amount from Salary,سداد المبلغ غير المطالب به من الراتب
 Repayment,السداد
-Repayment against Loan:,السداد مقابل القرض:
+Repayment against Loan:,السداد مقابل السلفة:
 Repeat on Days,كرر في أيام
 "Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM.|||It also updates latest price in all the BOMs.","استبدل BOM معينًا في جميع BOMs الأخرى حيث يتم استخدامه. ستحل محل رابط BOM القديم ، وتكلفة التحديث ، وتجدد جدول ""BOM Explosion Item"" وفقًا لقائمة المواد الجديدة. ||| كما تقوم أيضًا بتحديث أحدث الأسعار في جميع BOMs."
 Report an Issue,بلغ عن خطأ
@@ -1460,7 +1460,7 @@ Repost Item Valuation,إعادة تقييم الصنف
 Reposting Completed {0}%,اكتملت إعادة النشر {0}٪
 Reposting Progress,إعادة التقدم
 Request Headers,رؤوس طلب
-Request Loan Closure,طلب اغلاق القرض
+Request Loan Closure,طلب اغلاق السلفة
 Request Method,طريقة الطلب
 Request Timeout,طلب مهلة
 Request for Quote,طلب الحصول على عرض السعر
@@ -1549,14 +1549,14 @@ Row {0}: From (Year) can not be greater than To (Year),الصف {0}: من (ال�
 Row {0}: From Warehouse is mandatory for internal transfers,الصف {0}: من المخزن إلزامي لعمليات النقل الداخلية
 Row {0}: Item Tax template updated as per validity and rate applied,الصف {0}: تم تحديث نموذج ضريبة الصنف وفقًا للصلاحية والسعر المطبق
 Row {0}: Item rate has been updated as per valuation rate since its an internal stock transfer,الصف {0}: تم تحديث سعر الصنف وفقًا لمعدل التقييم منذ نقله داخليًا للمخزون
-Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},الصف {0}: المبلغ المدفوع {1} أكبر من المبلغ المستحق المعلق {2} مقابل القرض {3}
+Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},الصف {0}: المبلغ المدفوع {1} أكبر من المبلغ المستحق المعلق {2} مقابل السلفة {3}
 Row {0}: Project must be same as the one set in the Timesheet: {1}.,الصف {0}: يجب أن يكون المشروع هو نفسه الذي تم تعيينه في سجل الدوام: {1}.
 Row {0}: Purchase Invoice {1} has no stock impact.,الصف {0}: فاتورة الشراء {1} ليس لها تأثير على المخزون.
 Row {0}: Target Warehouse is mandatory for internal transfers,الصف {0}: يعد المخزن المستهدف إلزاميًا لعمليات النقل الداخلية
 "Row {0}: To set {1} periodicity, difference between from and to date must be greater than or equal to {2}",الصف {0}: لتعيين دورية {1} ، يجب أن يكون الاختلاف بين من و إلى تاريخ أكبر من أو يساوي {2}
 Row {0}: {1} account already applied for Accounting Dimension {2},الصف {0}: {1} تم تطبيق الحساب بالفعل على بُعد المحاسبة {2}
 Row {0}: {1} {2} cannot be same as {3} (Party Account) {4},الصف {0}: {1} {2} لا يمكن أن يكون مثل {3} (حساب المجموعة) {4}
-Row {0}: {1} {2} of {3} is pledged against Loan {4}.,الصف {0}: {1} {2} من {3} مرهون مقابل القرض {4}.
+Row {0}: {1} {2} of {3} is pledged against Loan {4}.,الصف {0}: {1} {2} من {3} مرهون مقابل السلفة {4}.
 SQL Explain,شرح SQL
 SQL Queries,استعلامات SQL
 SQL Query,استعلام SQL
@@ -1686,7 +1686,7 @@ Shopify Integration will be removed from ERPNext in Version 14. Please install {
 Shopify Order Id,Shopify رقم الطلب
 Shortfall Percentage,نسبة النقص
 Shortfall Repayment of {0},سداد النقص بمقدار {0}
-Shortfall Repayment of {0}.||||Repayment against Loan: {1},سداد النقص في {0}. |||| السداد مقابل القرض: {1}
+Shortfall Repayment of {0}.||||Repayment against Loan: {1},سداد النقص في {0}. |||| السداد مقابل السلفة: {1}
 Show Absolute Values,إظهار القيم المطلقة
 Show Barcode Field in Stock Transactions,إظهار حقل الرمز الشريطي في معاملات المخزون
 Show Completed Orders,إظهار الطلبات المكتملة
@@ -2039,7 +2039,7 @@ Workspace Chart,مخطط مساحة العمل
 Workspace Link,ارتباط مساحة العمل
 Workspace Shortcut,اختصار مساحة العمل
 Write Off Details,شطب التفاصيل
-Write Off amount cannot be greater than pending loan amount,لا يمكن أن يكون مبلغ الشطب أكبر من مبلغ القرض المعلق
+Write Off amount cannot be greater than pending loan amount,لا يمكن أن يكون مبلغ الشطب أكبر من مبلغ السلفة المعلق
 Write a Review,أكتب مراجعة
 Write off amount cannot be greater than pending principal amount,لا يمكن أن يكون مبلغ الشطب أكبر من المبلغ الأساسي المعلق
 Written Off Amount,المبلغ المشطوب
@@ -7194,7 +7194,7 @@ Referral Code {0} is not exists,رمز الإحالة {0} غير موجود
 Referral Company,شركة الإحالة
 Referral Name,اسم الإحالة
 Register Status,تسجيل الحالة
-Repayment against Loan: ,السداد مقابل القرض:
+Repayment against Loan: ,السداد مقابل السلفة:
 Replace Cheapest Item,استبدال الصنف الأرخص
 Replace Same Item,استبدال نفس الصنف
 Request,طلب
@@ -7224,7 +7224,7 @@ Selected POS Opening Shift should be open.,يجب فتح وردية عمل لف�
 Sell Asset,بيع الأصول
 Send invoice to submit after printing,إرسال الفاتورة لترحيلها بعد الطباعة
 Serial No QTY,المسلسل لا الكمية
-Shortfall Repayment of {0}.||||Repayment against Loan: {1},سداد النقص في {0}.  السداد مقابل القرض: {1}
+Shortfall Repayment of {0}.||||Repayment against Loan: {1},سداد النقص في {0}.  السداد مقابل السلفة: {1}
 Show Template Items,إظهار عناصر النموذج
 Show pending entries,إظهار الإدخالات المعلقة
 Show with upcoming revenue/expense,تظهر مع الإيرادات / النفقات القادمة
@@ -7604,3 +7604,4 @@ Details of amounts owed by the tenant,تفاصيل المبالغ المستحق
 Details of amounts due to the tenant,تفاصيل المبالغ المستحقة للمستأجر
 Total From,ألاجمالي
 Total For,ألاجمالي
+Employee Advance,طلب عهده - سلفة
