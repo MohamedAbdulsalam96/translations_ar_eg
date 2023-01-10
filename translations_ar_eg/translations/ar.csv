@@ -7605,3 +7605,142 @@ Details of amounts due to the tenant,تفاصيل المبالغ المستحق�
 Total From,ألاجمالي
 Total For,ألاجمالي
 Employee Advance,طلب عهده - سلفة
+Employee Onboarding Template,اعداد تعيين الموظف
+Employee Onboarding,تعين الموطف
+Issue,طلب صيانة
+Issue,طلب صيانة
+Stock Balance,أرصدة الأصناف
+Battery,البطارية
+Warranty Serial Number,الرقم التسلسلي للضمان
+Purchase Invoice,فاتورة مشتريات
+Internal Transfer,تحويلات نقدية داخلية
+Payment Entry,سندات القبض والصرف
+Pay,سند صرف نقدية
+Receive,سند إستلام نقدية
+Material Request,طلب بضاعة
+Employee Advance,طلب عهدة
+Shift Request,طلب تغير الوردية
+Shift Request,طلب تغير الوردية
+Branch Expenses,مصروفات الفرع
+H-R,الموارد البشرية
+Issue Watches,صيانة الساعات
+Loyalty Points Redemption,نقاط الولاء
+With Bag and Box,يشمل كيس و علبة
+Box,علبة
+Bag,كيسة
+Identification Document Number,رقم الهوية
+Identification Place of Issue,جهة إصدار الهويه
+Expire Date,تاريخ الإنتهاء
+Issue Date,تاريخ الإصدار
+Identification Document,بيانات الهويه
+Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item,لا يمكن تغيير سمات بعد معاملة المخزن. جعل عنصر جديد ونقل المخزن إلى الصنف الجديد
+Closing Account {0} must be of type Liability / Equity,يجب ان يكون الحساب الختامي {0} من النوع متطلبات/المخزن\n<br>\nجب ان يكون الحساب الختامي {0} يجب ان يكون من نوع الألتزامات / حقوق الملكية
+"For job card {0}, you can only make the 'Material Transfer for Manufacture' type stock entry",بالنسبة لبطاقة المهمة {0} ، يمكنك فقط إدخال نوع القيد المخزني &quot;نقل المواد للصناعة&quot;
+In Stock Qty,داخل فى كمية المخزن
+List of all share transactions,قائمة بجميع معاملات الأسهم
+No of Shares,عدد األسهم
+Not allowed to update stock transactions older than {0},غير مسموح بتحديث معاملات الأسهم الأقدم من {0}\n<br>\nNot allowed to update stock transactions older than {0}
+Received Stock Entries,قيد إستلام مخزن
+Retention Stock Entry,الاحتفاظ بالمخزون
+Retention Stock Entry already created or Sample Quantity not provided,الاحتفاظ بالمخزون دخول بالفعل إنشاء أو عينة الكمية غير المقدمة
+Share Balance,رصيد المخزن
+Stock Entry {0} created,قيد مخزني{0} إنشيء
+Stock In Hand,المخزون
+Stock Qty,كمية المخزون
+Stock Reports,تقارير المخازن
+Stock UOM,وحدة قياس المخزن
+Stock balance in Batch {0} will become negative {1} for Item {2} at Warehouse {3},ميزان المخزن في الدفعة {0} ستصبح سلبية {1} القطعة ل{2} في {3} المخازن
+The number of shares and the share numbers are inconsistent,عدد الأسهم وأعداد الأسهم غير متناسقة
+The shares already exist,الأسهم موجودة بالفعل
+The shares don't exist with the {0},الأسهم غير موجودة مع {0}
+"There are inconsistencies between the rate, no of shares and the amount calculated",هناك تناقضات بين المعدل، لا من الأسهم والمبلغ المحسوب
+Warehouse required for stock Item {0},مستودع المخزون المطلوبة لل تفاصيل {0}
+"Difference Account must be a Asset/Liability type account, since this Stock Entry is an Opening Entry",يجب أن يكون حساب الفرق حسابًا لنوع الأصول / الخصوم ، نظرًا لأن قيد المخزن هذا هو إدخال فتح
+Make Stock Entry,إنشاء قيد مخزون
+Non stock items,الصنف غير مخزني
+Please set default UOM in Stock Settings,يرجى تعيين الافتراضي UOM في إعدادات الأسهم
+Show Stock Ageing Data,عرض البيانات شيخوخة الأسهم
+Stock Entry has been already created against this Pick List,تم إنشاء إدخال الأسهم بالفعل مقابل قائمة الاختيار هذه
+Stock Value ({0}) and Account Balance ({1}) are out of sync for account {2} and it's linked warehouses.,قيمة الأسهم ({0}) ورصيد الحساب ({1}) غير متزامنين للحساب {2} والمستودعات المرتبطة به.
+You have to enable auto re-order in Stock Settings to maintain re-order levels.,يجب عليك تمكين الطلب التلقائي في إعدادات المخزن للحفاظ على مستويات إعادة الطلب.
+Not in stock,ليس في المخزن
+"The account head under Liability or Equity, in which Profit/Loss will be booked",رئيس الحساب تحت الإلتزامات او حقوق الملكية، والتي سيتم حجز الربح / الخسارة
+Qty as per Stock UOM,الكمية حسب وحدة قياس المخزون
+Equity/Liability Account,حساب حقوق الملكية / الإلتزامات
+Stock Uom,وحدة قياس المخزن
+"Publish ""In Stock"" or ""Not in Stock"" on Hub based on stock available in this warehouse.",نشر &quot;في الأوراق المالية&quot; أو &quot;غير متوفر&quot; على المحور استنادا إلى المخزن المتوفرة في هذا المستودع.
+Contract Type,نوع العقد
+Unavailable,غير موجود
+Available,موجود
+Electronic Contract,العقد الألكنروني
+Unlimited time,غير محدد المدة
+Limited time,محدد المدة
+Payment Type,نوع السند
+Type of Payment,نوع السند
+Applicant,طلب السلفة
+Loan  Details,نفاصيل السلفيات
+Loan Security Details,تفاصيل ضمان السلفيات
+Loan Security Code,رمز ضمان السلفة
+Loan To Value Ratio,نسبة السلفيات إلى قيمة
+Loan ,السلفة
+Against Loan,مقابل السلفة
+Against Loan ,مقابل السلفة
+Is NPA,هو أصل غير عامل الأداء
+Credit Adjustment Amount,مبلغ تسوية الائتمان
+Debit Adjustment Amount,مبلغ تسوية الخصم
+Loan Details,تفاصيل السلفة
+Disbursement Account,حساب الصرف
+Is Secured Loan,هو سلفة مضمونة
+Loan Amount,قيمة السلفة
+Loan Info,معلومات السلفة
+Repayment Account,حساب السداد
+No. of days from due date until which penalty won't be charged in case of delay in loan repayment,عدد الأيام من تاريخ الاستحقاق التي لن يتم فرض غرامة عليها في حالة التأخير في سداد السلفة
+Is Term Loan,هو سلفة لأجل
+Loan Account,حساب السلفة
+Maximum Loan Amount,أعلي قيمة للسلفة
+Loan Name,اسم السلفة
+Loan Security Unpledge,عدم تعهد ضمان السلفة
+Loan Security Status,حالة ضمان السلفة
+Loan Repayment and Closure,سداد السلفة واغلاقه
+Loan Security Shortfall,النقص في ضمان السلفة
+Loan Security Pledge,تعهد ضمان السلفة
+Loan Security Price,سعر ضمان السلفة
+Loan Security Type,نوع ضمان السلفة
+Loan Security,ضمان السلفيات
+Loan Interest Accrual,استحقاق فائدة السلفة
+Loan Repayment,سداد السلفة
+Loans,السلفيات
+Loan Processes,عمليات السلفة
+Process Loan Interest Accrual,عملية استحقاق فائدة السلفة
+Process Loan Security Shortfall,النقص في عملية السلفة
+Loan Type,نوع السلفة
+Loan,السلفة
+Loan Application,طلب السلفة
+Employee Onboarding Template,اعداد تعيين الموظف
+Employee Onboarding,تعين الموطف
+Issue,طلب صيانة
+Issue,طلب صيانة
+Stock Balance,أرصدة الأصناف
+Battery,البطارية
+Warranty Serial Number,الرقم التسلسلي للضمان
+Purchase Invoice,فاتورة مشتريات
+Internal Transfer,تحويلات نقدية داخلية
+Payment Entry,سندات القبض والصرف
+Pay,سند صرف نقدية
+Receive,سند إستلام نقدية
+Material Request,طلب بضاعة
+Employee Advance,طلب عهدة
+Shift Request,طلب تغير الوردية
+Shift Request,طلب تغير الوردية
+Branch Expenses,مصروفات الفرع
+H-R,الموارد البشرية
+Issue Watches,صيانة الساعات
+Loyalty Points Redemption,نقاط الولاء
+With Bag and Box,يشمل كيس و علبة
+Box,علبة
+Bag,كيسة
+Identification Document Number,رقم الهوية
+Identification Place of Issue,جهة إصدار الهويه
+Expire Date,تاريخ الإنتهاء
+Issue Date,تاريخ الإصدار
+Identification Document,بيانات الهويه
