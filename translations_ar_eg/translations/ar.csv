@@ -7744,3 +7744,95 @@ Identification Place of Issue,جهة إصدار الهويه
 Expire Date,تاريخ الإنتهاء
 Issue Date,تاريخ الإصدار
 Identification Document,بيانات الهويه
+Monthly,شهري
+End of the current month,نهاية الشهر الحالي
+Start of the next month,بداية الشهر القادم
+Monthly as per repayment start date,شهريًا حسب تاريخ بدء السداد
+Select whether the repayment date should be the end of the current month or start of the upcoming month,حدد ما إذا كان تاريخ السداد يجب أن يكون نهاية الشهر الحالي أو بداية الشهر القادم
+Pro-rated calendar months,المقسمة بالنسبة للشهور
+Monthly as per repatment start date,شهريًا حسب تاريخ بدء إعادة السداد
+Repayment Date On,تاريخ السداد في
+The schedule type that will be used for generating the term loan schedules (will affect the payment date and monthly repayment amount),نوع الجدول الذي سيتم استخدامه لإنشاء جداول القرض لأجل (سيؤثر على تاريخ الدفع ومبلغ السداد الشهري)
+Repayment Schedule Type,نوع جدول السداد
+Cheque Accounts,حساب البنوك
+Default Bounced Cheque Account,حساب الشيكات المرتدة
+Bank fees Expense Account,حساب الرسوم البنكية
+Default Bank Commission Account,حساب العمولة البنكية للشيكات
+Default Incoming Cheque Wallet Account,حساب لشيكات الواردة
+Compensations,التعويضات
+Stock Entry Type,نوع المخزون
+Insurance Expire Date,تاريخ انتهاء التأمين
+Insurance Issue Date,تاريخ اصدار التأمين
+Job Applicant,المتقدم للوظيفة
+Material Receipt,إستلام مواد
+Total Value Difference (Incoming - Outgoing),إجمالي فرق القيمة (مستلم - منصرف)
+Total Incoming Value (Receipt),اجمالي القيمة المستلمة (استلام)
+Total Outgoing Value (Consumption),اجمالي القيمة المنصرفة (الاستهلاك)
+Material Transfer,نقل مخزني
+Material Receipt,استلام مخزني
+Material Issue,صرف مخزني
+Contract Type,نوع العقد
+Unavailable,غير موجود
+Available,موجود
+Electronic Contract,العقد الألكنروني
+Unlimited time,غير محدد المدة
+Limited time,محدد المدة
+Payment Type,نوع السند
+Type of Payment,نوع السند
+Applicant,طلب السلفة
+Loan  Details,نفاصيل السلفيات
+Loan Security Details,تفاصيل ضمان السلفيات
+Loan Security Code,رمز ضمان السلفة
+Loan To Value Ratio,نسبة السلفيات إلى قيمة
+Loan ,السلفة
+Against Loan,مقابل السلفة
+Against Loan ,مقابل السلفة
+Is NPA,هو أصل غير عامل الأداء
+Credit Adjustment Amount,مبلغ تسوية الائتمان
+Debit Adjustment Amount,مبلغ تسوية الخصم
+Loan Details,تفاصيل السلفة
+Disbursement Account,حساب الصرف
+Is Secured Loan,هو سلفة مضمونة
+Loan Amount,قيمة السلفة
+Loan Info,معلومات السلفة
+Repayment Account,حساب السداد
+No. of days from due date until which penalty won't be charged in case of delay in loan repayment,عدد الأيام من تاريخ الاستحقاق التي لن يتم فرض غرامة عليها في حالة التأخير في سداد السلفة
+Is Term Loan,هو سلفة لأجل
+Loan Account,حساب السلفة
+Maximum Loan Amount,أعلي قيمة للسلفة
+Loan Name,اسم السلفة
+Loan Security Unpledge,عدم تعهد ضمان السلفة
+Loan Security Status,حالة ضمان السلفة
+Loan Repayment and Closure,سداد السلفة واغلاقه
+Loan Security Shortfall,النقص في ضمان السلفة
+Loan Security Pledge,تعهد ضمان السلفة
+Loan Security Price,سعر ضمان السلفة
+Loan Security Type,نوع ضمان السلفة
+Loan Security,ضمان السلفيات
+Loan Interest Accrual,استحقاق فائدة السلفة
+Loan Repayment,سداد السلفة
+Loans,السلفيات
+Loan Processes,عمليات السلفة
+Process Loan Interest Accrual,عملية استحقاق فائدة السلفة
+Process Loan Security Shortfall,النقص في عملية السلفة
+Loan Type,نوع السلفة
+Loan,السلفة
+Loan Application,طلب السلفة
+Employee Onboarding Template,اعداد تعيين الموظف
+Employee Onboarding,تعين الموطف
+Issue,طلب صيانة
+Issue,طلب صيانة
+Stock Balance,أرصدة الأصناف
+Battery,البطارية
+Warranty Serial Number,الرقم التسلسلي للضمان
+Purchase Invoice,فاتورة مشتريات
+Internal Transfer,تحويلات نقدية داخلية
+Payment Entry,سندات القبض والصرف
+Pay,سند صرف نقدية
+Receive,سند إستلام نقدية
+Material Request,طلب بضاعة
+Employee Advance,طلب عهدة
+Shift Request,طلب تغير الوردية
+Shift Request,طلب تغير الوردية
+Branch Expenses,مصروفات الفرع
+Loyalty Points Redemption,نقاط الولاء
